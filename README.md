@@ -4,7 +4,7 @@ This software uses a combination of multi-agent Soft Actor-Critic, weighted bipa
 
 This method is proposed in:
 
-> Zeno Woywood, Jasper I. Wiltfang, Julius Luy, Tobias Enders, Maximilian Schiffer (2024). Multi-Agent Soft Actor-Critic with Global Loss for Autonomous Mobility-on-Demand Fleet Control. arXiv preprint at arXiv: [Add link after upload].
+> Zeno Woywood, Jasper I. Wiltfang, Julius Luy, Tobias Enders, Maximilian Schiffer (2024). Multi-Agent Soft Actor-Critic with Global Loss for Autonomous Mobility-on-Demand Fleet Control. arXiv preprint at arXiv: https://arxiv.org/abs/2404.06975.
 
 All components (code, data, etc.) required to run the instances of the method considered in the paper and benchmarks are provided here. 
 
